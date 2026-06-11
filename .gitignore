@@ -3,6 +3,9 @@
 *.dll
 *.so
 *.test
+examples/*/create-shipment
+examples/*/quote
+examples/*/tracking
 
 # Go workspace
 go.work
